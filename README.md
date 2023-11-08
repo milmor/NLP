@@ -9,3 +9,4 @@ Este repositorio contiene todo el código y los laboratorios de software para el
 - Keras Core 0.1.5
 - KerasNLP 0.6.1
 - Tensorflow 2.13.1
+- Transformers 4.35.0
