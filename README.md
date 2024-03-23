@@ -14,7 +14,7 @@ Este repositorio contiene todo el código y los laboratorios de software para el
 ```
 conda create --name keras3 python=3.9.16
 conda activate keras3
-pip install tensorflow==2.14.0 jupyterlab numpy pandas matplotlib scikit-learn 
+pip install tensorflow==2.14.0 jupyterlab numpy pandas matplotlib scikit-learn spacy
 pip install torch==2.2.0 torch-summary torchtext
 pip install keras==3.0.0
 ```
