@@ -1,4 +1,4 @@
-# Procesamiento del Lenguaje Natural 2024-2 (FI, UNAM)
+# Procesamiento del Lenguaje Natural 2025-1 (FI, UNAM)
 
 Este repositorio contiene todo el código y los laboratorios de software para el curso de Procesamiento del Lenguaje Natural de la FI, UNAM.
 
@@ -18,5 +18,3 @@ pip install tensorflow==2.14.0 jupyterlab numpy pandas matplotlib scikit-learn i
 pip install torch==2.2.0 torch-summary torchtext
 pip install keras==3.0.0
 pip install spacy transformers keras_nlp opencv-python
-```
-- No usar tensorflow==2.15.0 por problemas al reconocer CUDNN https://github.com/tensorflow/tensorflow/issues/60913
