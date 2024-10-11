@@ -18,3 +18,10 @@ pip install tensorflow==2.14.0 jupyterlab numpy pandas matplotlib scikit-learn i
 pip install torch==2.2.0 torch-summary torchtext
 pip install keras==3.0.0
 pip install spacy transformers keras_nlp opencv-python
+```
+
+## Colab
+```
+pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https://download.pytorch.org/whl/cu121
+pip install torchtext==0.18
+```
