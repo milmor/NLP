@@ -1,4 +1,4 @@
-# Procesamiento del Lenguaje Natural 2025-2 (FI, UNAM)
+# Procesamiento del Lenguaje Natural 2026-1 (FI, UNAM)
 
 Este repositorio contiene todo el código y los laboratorios de software para el curso de Procesamiento del Lenguaje Natural de la FI, UNAM.
 
