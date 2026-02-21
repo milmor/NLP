@@ -1,19 +1,17 @@
-# Procesamiento del Lenguaje Natural 2026-1 (FI, UNAM)
+# Natural Language Processing with Deep Learning 2026-1 (FI, UNAM)
 
-Este repositorio contiene todo el código y los laboratorios de software para el curso de Procesamiento del Lenguaje Natural de la FI, UNAM.
+This repository contains all the code and software labs for the Natural Language Processing with Deep Learning course at FI, UNAM.
 
-## Dependencias
-- Python 3.10.14
-- Pytorch 2.5.1
-- Keras 3.6.0
-- Tensorflow 2.18.0
+## Dependencies
+- Python 3.10.19
+- PyTorch 2.9.1
 - Transformers 4.46.3
 
-## Ambiente local
+## Local environment
 ```
-conda create --name keras3 python=3.10.14
-conda activate keras3
-pip install tensorflow==2.18.0 jupyterlab numpy pandas matplotlib scikit-learn ipywidgets
-pip install torch==2.5.1 torch-summary
+conda create --name keras3 python=3.10.19
+conda activate pt29
+pip install jupyterlab numpy pandas matplotlib scikit-learn ipywidgets
+pip install torch==2.9.1 torch-summary
 pip install spacy transformers keras_nlp opencv-python
 ```
